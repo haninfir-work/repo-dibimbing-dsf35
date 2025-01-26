@@ -1,3 +1,5 @@
+# Digital Skill Fair (DSF) 35.0 Data Science Portfolio
+# Wine Recognition Classification Using Decision Tree
 # Description Project
 Explore the intriguing Wine dataset from the UC Irvine Machine Learning Repository, available here: https://archive.ics.uci.edu/ml/machine-learning-databases/wine/wine.data. This dataset provides chemical analysis of wines derived from three different cultivars grown in the same region in Italy. Our project leverages a decision tree model to classify the wines based on their chemical properties. Through this analysis, we aim to demonstrate the effectiveness of decision trees in wine classification and uncover patterns in the data.
 
